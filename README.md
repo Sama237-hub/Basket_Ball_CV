@@ -93,9 +93,3 @@ BasketBallProject/
 - **Libraries:** OpenCV, cvzone, NumPy  
 
 ---
-
-## 👨‍💻 Author
-Developed as part of a **Self-Study Basketball Vision Project**.  
-
-📧 Contact: your.email@example.com  
-🔗 GitHub: [yourusername](https://github.com/yourusername)  
